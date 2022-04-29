@@ -1,0 +1,8 @@
+  cupertino_icons: ^1.0.2
+  flutter_riverpod: ^2.0.0-dev.5
+  freezed_annotation: any
+  build_runner: ^2.1.10
+  
+  intl: ^0.17.0
+  http: ^0.13.1
+  provider: ^5.0.0
