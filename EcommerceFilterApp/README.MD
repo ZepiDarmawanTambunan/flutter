@@ -1,3 +1,5 @@
+file main.dart perhatikan method runApp nya
+
 A. SCREENS
 1. MAIN SCREEN MENAMPILKAN HALAMAN UTAMA PENCARIAN MACBOOK
 2. FILTER SCREEM MENAMPILKAN showModalBottomSheet mirip popup
