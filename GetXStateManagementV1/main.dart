@@ -25,8 +25,8 @@ class HomePage extends StatelessWidget {
   HomePage({Key? key}) : super(key: key);
   final counterC = Get.find<CounterController>();
   
-  // * final counterC = Get.put(CounterController());
-  // * kalau di myapp atau parent udah Get.put kita cukup find aja gak perlu put lagi  
+  // final counterC = Get.put(CounterController());
+  // kalau di myapp atau parent udah Get.put kita cukup find aja gak perlu put lagi  
 
   @override
   Widget build(BuildContext context) {
