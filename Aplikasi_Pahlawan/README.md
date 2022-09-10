@@ -1,5 +1,7 @@
 APLIKASI PENGENALAN PAHLAWAN NASIONAL REPUBLIK INDONESIA
 
+APLIKASI INI TERINSPIRASI DARI JURNAL: http://ojs.palcomtech.com/index.php/teknomatika/article/view/467
+
 SPLASH SCREEN
 ![apk (1)](https://user-images.githubusercontent.com/58543758/189473461-f4d9f7d2-6432-42ab-8298-a0a239ca276d.jpeg)
 
